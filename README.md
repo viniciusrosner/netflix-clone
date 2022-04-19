@@ -1,4 +1,4 @@
-# netflix-clone html5 css jquery
+# netflix-clone
 
 first web study
 
