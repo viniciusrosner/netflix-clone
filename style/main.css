@@ -65,7 +65,7 @@ header nav a:hover{
     margin-top: 10px;
     margin-left: 10px;
     margin-right: 10px;
-    width: 600px;
+    width: 400px;
     
 }
 
@@ -106,3 +106,14 @@ header nav a:hover{
 
 }
 
+.moviebox{
+    height:auto;
+    transition: 0.5s;
+    display: flex;
+
+}
+
+.moviebox:hover{
+    cursor:pointer;
+    
+}   
