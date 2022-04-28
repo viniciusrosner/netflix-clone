@@ -10,7 +10,7 @@
     text-decoration: none;
     font-family: 'Roboto Slab', serif;
     color: white;
-    
+
 
 }
 
@@ -28,8 +28,8 @@ header .container{
     margin-left: 10px;
     margin-right: 10px;
 
-    
-    
+
+
 }
 
 header .logo{
@@ -48,15 +48,15 @@ header nav a:hover{
 .mainmovie{
     font-size: 16px;
     height: 400px;
-    
-    background:linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1)), url(/img/forlife.jpg);
+
+    background:linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1)), url(../img/forlife.jpg);
     background-size: cover;
-    
+
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    
+
 }
 
 
@@ -66,7 +66,7 @@ header nav a:hover{
     margin-left: 10px;
     margin-right: 10px;
     width: 400px;
-    
+
 }
 
 .title{
@@ -93,7 +93,7 @@ header nav a:hover{
 .button:hover{
     background-color: white;
     color:black;
-    
+
 
 }
 
@@ -115,5 +115,5 @@ header nav a:hover{
 
 .moviebox:hover{
     cursor:pointer;
-    
-}   
+
+}
