@@ -9,7 +9,7 @@ owl.owlCarousel({
         },
         600:{
             items:3
-        },            
+        },
         960:{
             items:5
         },
@@ -18,7 +18,7 @@ owl.owlCarousel({
         }
     }
 });
-owl.on('mousewheel', '. owl-stage', function (e) {
+owl.on('mousewheel', '.owl-stage', function (e) {
     if (e.deltaY>0) {
         owl.trigger('prev.owl');
     } else {
@@ -26,4 +26,3 @@ owl.on('mousewheel', '. owl-stage', function (e) {
     }
     e.preventDefault();
 });
-
